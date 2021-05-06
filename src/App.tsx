@@ -5,9 +5,9 @@ import {
   Link
 } from "react-router-dom";
 import "./utils/App.css";
-import SearchUsers from './SearchUsers';
-import FindUser from './FindUser';
-import UserView from './UserView';
+import SearchUsers from './views/SearchUsers';
+import FindUser from './views/FindUser';
+import UserView from './views/UserView';
 
 
 function App() {
