@@ -1,6 +1,6 @@
 import { useEffect, useState, useCallback, useRef } from 'react';
 
-export const token = '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'
+export const token = ''
 
 export const resultsPerPage = 100;
 
