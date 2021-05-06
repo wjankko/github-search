@@ -25,7 +25,12 @@ Access user details view by clicking it's login name from the table
 
 run: `git clone https://github.com/wjankko/github-search`
 
-### 2. Installing packages
+### 2. Update personal github access token
+
+Create token in github settings `https://github.com/settins/tokens`
+Replace token constant in `src\utils\utils.ts`
+
+### 3. Installing packages
 
 run: `npm i`
 
