@@ -23,7 +23,7 @@ Access user details view by clicking it's login name from the table
 
 ### 1. Cloning repository
 
-run: `git clone https://github.com/wjankko/github-search'
+run: `git clone https://github.com/wjankko/github-search`
 
 ### 2. Installing packages
 
